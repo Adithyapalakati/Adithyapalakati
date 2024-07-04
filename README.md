@@ -7,7 +7,7 @@
 <h2>🚀 Skills</h2>
 <ul>
   <li><strong>Design</strong>: Figma, Adobe XD, Adobe illustrator</li>
-  <li><strong>Development</strong>: HTML, CSS, JavaScript, PHP, React, React Native, Tailwind CSS</li>
+  <li><strong>Development</strong>: HTML, CSS, JavaScript, PHP, Tailwind CSS</li>
   <li><strong>Tools</strong>: Git, GitHub, Hostinger Cloud, VS Code</li>
 </ul>
 
