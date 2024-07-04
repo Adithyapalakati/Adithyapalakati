@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adithya Palakati <img src="https://lottie.host/embed/5428cc10-e3a5-4239-a67d-26cb32dfea45/zPanaiwYgD.json" width="50" /> </h1>
+<h1 align="center">Hi there, I'm Adithya Palakati <img src="https://adithya-podcast-10.000webhostapp.com/Animation%20-%201720078650184.gif" width="50" /> </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" /> I am a passionate UI/UX Designer and Developer with expertise in creating intuitive and engaging user experiences.
