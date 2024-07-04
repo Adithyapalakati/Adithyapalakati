@@ -34,7 +34,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adithyapalakati&show_icons=true&theme=radical" alt="Adithyapalakati's GitHub Stats" />
 </p>
 
 
