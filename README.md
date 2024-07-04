@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Adithya Palakati 👋</h1>
+<h1 align="center">Hi there, I'm Adithya Palakati <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/5428cc10-e3a5-4239-a67d-26cb32dfea45/zPanaiwYgD.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" /> I am a passionate UI/UX Designer and Developer with expertise in creating intuitive and engaging user experiences.
