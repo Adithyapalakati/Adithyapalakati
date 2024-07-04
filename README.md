@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adithya Palakati <img src="https://adithya-podcast-10.000webhostapp.com/Animation%20-%201720078650184.gif" width="50" /> </h1>
 
 <p align="center">
-  <img src="https://adithya-podcast-10.000webhostapp.com/Animation - 1720079118722.gif" width="50" /> I am a passionate UI/UX Designer and Developer with expertise in creating intuitive and engaging user experiences.
+  <img src="https://adithya-podcast-10.000webhostapp.com/Animation - 1720079118722.gif" width="70" /> I am a passionate UI/UX Designer and Developer with expertise in creating intuitive and engaging user experiences.
 </p>
 
 <h2>🚀 Skills</h2>
