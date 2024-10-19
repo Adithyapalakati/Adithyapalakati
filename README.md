@@ -42,7 +42,7 @@
 <p align="center">
   <a href="mailto:adithyapalakati.6@gmail.com"><strong>Email</strong></a> |
   <a href="https://www.linkedin.com/in/palakati-adithya"><strong>LinkedIn</strong></a> |
-  <a href="https://portfolio-app-adithyapalakati.web.app"><strong>Portfolio</strong></a> |
+  <a href="https://adithya-palakati.netlify.app"><strong>Portfolio</strong></a> |
 </p>
 
 
