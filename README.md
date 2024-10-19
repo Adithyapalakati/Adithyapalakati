@@ -48,7 +48,7 @@
 
 <h2>📂 Portfolio</h2>
 <ul>
-  <li><a href="https://portfolio-app-adithyapalakati.web.app"><strong> Portfolio</strong></a></li>
+  <li><a href="https://adithya-palakati.netlify.app"><strong> Portfolio</strong></a></li>
 </ul>
 
 <h2>💬 Let's Chat</h2>
