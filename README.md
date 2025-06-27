@@ -27,7 +27,7 @@
 
 <h2>🌟 Projects</h2>
 <ul>
-  <li><a href="https://github.com/Adithyapalakati/GSAP.git"><strong>GSAP PrallaxScrolling Design</strong></a>: description of the project.</li>
+  <li><a href="https://pdftoexcel-gaev.onrender.com"><strong>PDF to Excel Convert</strong></a>: description of the project.</li>
 </ul>
 
 
