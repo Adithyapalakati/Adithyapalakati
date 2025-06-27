@@ -27,7 +27,7 @@
 
 <h2>🌟 Projects</h2>
 <ul>
-  <li><a href="https://pdftoexcel-gaev.onrender.com"><strong>PDF to Excel Convert</strong></a>: description of the project.</li>
+  <li><a href="https://pdftoexcel-gaev.onrender.com"><strong>PDF to Excel Convert</strong></a>: This project focuses on automating the extraction of structured data from invoice or bill PDFs and converting it into a well-organized Excel spreadsheet for easier analysis, reporting, or bookkeeping.</li>
 </ul>
 
 
